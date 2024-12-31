@@ -1,5 +1,9 @@
 # 🐛 Termite
 
+- [ ] Add Mistral API integration
+- [ ] Confirm functionality with Pixtral-Large
+- [ ] Compare against Anthropic/OAI
+
 Generate terminal UIs (TUIs) with simple text prompts.
 
 ![Demo](assets/demo.gif)
